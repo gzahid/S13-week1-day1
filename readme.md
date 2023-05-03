@@ -1,5 +1,12 @@
 # Week 1 Day 1 HTML Demo
 
-## This is h2
+<!-- Features -->
+## Features
 
-### This h3
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
